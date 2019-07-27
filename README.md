@@ -24,14 +24,14 @@ Dimension Tables
 - artists - artists in music database
 - time - timestamps of records in songplays broken down into specific units
 
+![alt text](https://github.com/MauriceMickens/Postgres-Data-Modeling/blob/master/Screen%20Shot%202019-07-27%20at%207.20.18%20PM.png)
+
 ## Usage Example
 From your project directory, run below command to create tables:
 `python create_tables.py`
 
 Now run the following, to populate your tables from the json files:
 `python etl.py`
-
-![alt text](https://github.com/MauriceMickens/Postgres-Data-Modeling/blob/master/Screen%20Shot%202019-07-27%20at%207.20.18%20PM.png)
 
 ## Credits
 [Udacity Data Engineering Course](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
