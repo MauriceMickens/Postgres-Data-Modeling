@@ -31,5 +31,7 @@ From your project directory, run below command to create tables:
 Now run the following, to populate your tables from the json files:
 `python etl.py`
 
+![alt text]https://github.com/MauriceMickens/Postgres-Data-Modeling/blob/master/Screen%20Shot%202019-07-27%20at%207.20.18%20PM.png
+
 ## Credits
 [Udacity Data Engineering Course](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
